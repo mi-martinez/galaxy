@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+
+</head>
+<body>
+    <form name="PostForm" action="[SubmitURL]" method=POST>
+        <input name="merchantId"        type="hidden"   value="[MerchantId]">
+        <input name="accountId"         type="hidden"   value="[AccountId]">
+
+        <input name="description"       type="hidden"   value="[OrderDescription]">
+        <input name="referenceCode"     type="hidden"   value="[OrderId]">
+
+        <input name="amount"            type="hidden"   value="[OrderAmountTotal]">
+        <input name="tax"               type="hidden"   value="[OrderAmountTax]">
+        <input name="taxReturnBase"     type="hidden"   value="[OrderAmountBase]">
+        <input name="currency"          type="hidden"   value="[CurrencyISOCode]">
+
+        <input name="test"              type="hidden"   value="1">
+        <input name="signature"         type="hidden"   value="[Signature]">
+        <input name="responseUrl"       type="hidden"   value="[ResponseURL]">
+        <input name="confirmationUrl"   type="hidden"   value="[ConfirmationURL]">
+
+        <input name="buyerFullName"     type="text"     placeholder="Escribe tu nombre" required>
+        <input name="buyerEmail"        type="email"    placeholder="tu correo electrónico" required>
+        <input name="Submit"            type="submit"   value="Pagar">
+    </form>
+    <script language="JavaScript" type="text/javascript">
+
+        window.onload = function () {
+            document.forms["PostForm"].submit();
+        }
+    </script>
+</body>
+</html>
