@@ -6,12 +6,10 @@
 trigger:
 - master
 
-pool:
-  vmImage: 'ubuntu-latest'
-
 steps:
-- powershell: msbuild GTS.Plugin.DemoPlugin.sln
-
+- task: CmdLine@2
+  inputs:
+    script: 'msbuild GTS.Plugin.DemoPlugin.sln'
 - task: PublishPipelineArtifact@0
   inputs:
     artifactName: 'artifactName'
