@@ -1,8 +1,0 @@
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/bin/Debug/GTS.Plugin.PayUIntegration.dll.config
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/bin/Debug/GTS.Plugin.PayUIntegration.dll
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/bin/Debug/GTS.Plugin.PayUIntegration.pdb
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/bin/Debug/GTS.Plugin.PluginContracts.dll
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/obj/Debug/GTS.Plugin.PayUIntegration.csproj.CoreCompileInputs.cache
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/obj/Debug/GTS.Plugin.PayUIntegration.csproj.CopyComplete
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/obj/Debug/GTS.Plugin.PayUIntegration.dll
-/Users/pandres95/Documents/Development/galaxy/Sample/GTS.Plugin.DemoPlugin/obj/Debug/GTS.Plugin.PayUIntegration.pdb

@@ -1,8 +1,0 @@
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\bin\Debug\GTS.Plugin.DemoPlugin.dll.config
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\bin\Debug\GTS.Plugin.DemoPlugin.dll
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\bin\Debug\GTS.Plugin.DemoPlugin.pdb
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\bin\Debug\GTS.Plugin.PluginContracts.dll
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\bin\Debug\GTS.Plugin.PluginContracts.pdb
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\obj\Debug\GTS.Plugin.DemoPlugin.csprojResolveAssemblyReference.cache
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\obj\Debug\GTS.Plugin.DemoPlugin.dll
-C:\dev\eGalaxyWebStore 2\GTS.Plugin.DemoPlugin\obj\Debug\GTS.Plugin.DemoPlugin.pdb

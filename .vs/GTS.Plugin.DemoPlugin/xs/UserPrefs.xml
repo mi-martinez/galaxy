@@ -5,9 +5,10 @@
         <State name="__root__">
           <Node name="GTS.Plugin.DemoPlugin" expanded="True">
             <Node name="GTS.Plugin.PayUIntegration" expanded="True">
-              <Node name="files" expanded="True">
-                <Node name="index.html" selected="True" />
+              <Node name="References" expanded="True">
+                <Node name="GTS.Plugin.PluginContracts" selected="True" />
               </Node>
+              <Node name="files" expanded="True" />
             </Node>
           </Node>
         </State>
