@@ -1,14 +1,16 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="galaxy Status">
+    <Files>
+      <File FileName="Plugin.cs" Line="125" Column="54" />
+      <File FileName="galaxy Status" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GTS.Plugin.DemoPlugin" expanded="True">
             <Node name="GTS.Plugin.PayUIntegration" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="GTS.Plugin.PluginContracts" selected="True" />
-              </Node>
-              <Node name="files" expanded="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Plugin.cs" selected="True" />
             </Node>
           </Node>
         </State>

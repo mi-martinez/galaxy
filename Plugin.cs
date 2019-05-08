@@ -122,7 +122,7 @@ namespace GTS.Plugin.PayUIntegration
                 var responseUrl = GetResponseUrl();
                 var confirmationUrl = GetResponseUrl();
 
-                BuildPostData(payment, postHtml);
+                BuildPostData(payment, ref postHtml);
                 postHtml = postHtml.Replace(Tokens.SubmitURL, submitUrl);
                 postHtml = postHtml.Replace(Tokens.ResponseURL, responseUrl);
                 postHtml = postHtml.Replace(Tokens.ConfirmationURL, confirmationUrl);
